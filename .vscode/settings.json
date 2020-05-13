@@ -1,0 +1,10 @@
+{
+  "prettier.packageManager": "yarn",
+  "editor.formatOnSave": true,
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "prettier.semi": false,
+  "files.exclude": {
+    "**/node_modules": true
+  }
+}
