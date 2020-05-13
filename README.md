@@ -183,3 +183,10 @@ _UI belum tersedia_
 
 1. [Talkwitcode UI Material](https://github.com/talkwithcode/app)
 2. [Chakra UI](https://chakra-ui.com/getting-started)
+
+# IMAGES Resource
+
+1. https://undraw.co/
+2. https://code.visualstudio.com/ (Logo vscode digunakan hanya untuk mockup saja)
+3. https://www.freecodecamp.org/ (Logo freecodecamp.org digunakan hanya untuk mockup saja)
+
